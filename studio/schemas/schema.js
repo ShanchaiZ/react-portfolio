@@ -7,7 +7,7 @@ import schemaTypes from 'all:part:@sanity/base/schema-type'
 // We import object and document schemas
 import blockContent from './blockContent';
 import post from './post';
-import project from "./project";
+import project from './project';
 import author from './author';
 
 // Then we give our schema to the builder and provide the result to Sanity
