@@ -39,8 +39,8 @@ export default function Navbar() {
                 </nav>
                 {/* SOCIAL MEDIA LINKS */}
                 <div className="inline-flex py-3 px-3 my-6">
-                    <SocialIcon url="https://twitter.com/?lang=en" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
-                    <SocialIcon url="https://ca.linkedin.com/" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
+                    <SocialIcon url="https://github.com/ShanchaiZ" network="github" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
+                    <SocialIcon url="https://www.linkedin.com/in/shanchai-zahid" network="linkedin" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
                     <SocialIcon url="https://www.youtube.com/" className="mr-4" target="_blank" fgColor="#fff" style={{ height: 35, width: 35 }} />
                 </div>
             </div>
